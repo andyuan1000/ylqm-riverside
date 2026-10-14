@@ -2,7 +2,7 @@
 
 可交互的宋代沿河街市画卷。沿河行走、饮茶、乘船，在夜景与时雨中游览街市，或参与虹桥过船并留下画稿。
 
-**[在线体验](https://xianxie6.github.io/qingming-riverside/)** · [Vercel](https://qingming-riverside-nine.vercel.app/) · [Cloudflare](https://qingming-riverside.zhangxianxie6.workers.dev/) · [作者 X](https://x.com/Xian0063)
+**[在线体验](https://andyuan1000.github.io/ylqm-riverside/#tea)** · [Vercel](https://qingming-riverside-nine.vercel.app/) · [Cloudflare](https://qingming-riverside.zhangxianxie6.workers.dev/) · [作者 X](https://x.com/Xian0063)
 
 无需安装或登录，支持电脑与手机浏览器。插画为生成与编辑后的再创作，不是《清明上河图》原画扫描。
 
