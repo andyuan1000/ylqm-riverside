@@ -1,0 +1,10 @@
+# Cloudflare publishes dist/ only; source exclusions are enforced by scripts/build-static.mjs.
+.git/
+.env*
+.dev.vars*
+node_modules/
+art-source/
+docs/
+tests/
+scripts/
+.github/
